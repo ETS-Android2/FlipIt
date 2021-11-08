@@ -638,7 +638,8 @@ public class Activity4x5 extends AppCompatActivity {
                     })
                     .setNegativeButton("Next", new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialogInterface, int i) {
-                            finish();
+                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                            startActivity(intent);
                         }
                     });
             AlertDialog alertDialog = alerDialogBuilder.create();

@@ -1,8 +1,8 @@
 # Flipit
 
-DiFra Memory is a game created in Android Studio.  
+FlipIt is a game created in Android Studio.  
 The application has 3 main levels: easy, medium and hard where all the tiles are shuffled when a new game is opened.  
-The game has the numbers of the attemps, the score and timer.  
+The game has the numbers of the attempts, the score and timer.  
 When a game is over the app asks you if you want to play again.
 
 ## How to play
